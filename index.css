@@ -1,0 +1,26 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(105,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+h2{
+    color: rgb(22, 213, 38);
+    font-family: cursive;
+    font-style: italic;
+    
+
+}
+h2:hover{
+    color: rgb(63,94,251);
+    color: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(57,25,176,1) 10%, rgba(205,19,56,1) 92%);;
+}
+img{
+    position: relative;
+    left: 58%;
+    bottom: 230px;
+    border-radius: 10px;
+}
+img:hover{
+    border-radius: 100% ;
+    
+    
+}
